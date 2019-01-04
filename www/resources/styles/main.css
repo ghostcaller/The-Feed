@@ -1,0 +1,13 @@
+
+body {
+  font-family: helvetica;
+}
+
+.subtitle {
+  color: grey;
+  font-style: italic;
+}
+
+center ul {
+    list-style-position: inside;
+}
